@@ -1,7 +1,6 @@
 \BackUps\$TEMP.INF*125011091#
 \Datos\Cfgs\$TEMP.INF*125011091#
 \Datos\Cfgs\BA.INF*2743192064#
-\Datos\Cfgs\HTTP.INF*3515918172#
 \Datos\Media\Audio\$TEMP.INF*125011091#
 \Datos\Media\Audio\Click.ogg*3206587487#
 \Datos\Media\Audio\Click1.ogg*3720520106#
@@ -723,14 +722,14 @@
 \AgregarLibro.exe*3752901955#
 \AgregarSocio.cdd*2349326252#
 \AgregarSocio.exe*1496246143#
-\Biblio-Admin.cdd*4189997996#
-\Biblio-Admin.exe*317207035#
+\Biblio-Admin.cdd*1097979736#
+\Biblio-Admin.exe*2923240765#
 \Camara.cdd*1701089461#
 \Camara.exe*2825809371#
 \Devolucion.cdd*2546483141#
 \Devolucion.exe*286056152#
-\Fichero.cdd*2437063623#
-\Fichero.exe*380105022#
+\Fichero.cdd*2554415246#
+\Fichero.exe*1213602213#
 \Inicio.cdd*2077528280#
 \Inicio.exe*2126824867#
 \Libros.cdd*3636002483#
