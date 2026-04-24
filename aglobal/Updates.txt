@@ -734,8 +734,8 @@
 \Fichero.exe*1213602213#
 \Inicio.cdd*2077528280#
 \Inicio.exe*2126824867#
-\Libros.cdd*990173278#
-\Libros.exe*1362716624#
+\Libros.cdd*4002639845#
+\Libros.exe*93222113#
 \lua5.1.dll*3787524300#
 \lua51.dll*777752936#
 \Menu.cdd*3899683812#
