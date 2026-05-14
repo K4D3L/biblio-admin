@@ -724,8 +724,8 @@
 \ImgTicket\$TEMP.INF*125011091#
 \Actualizador.cdd*1808279747#
 \Actualizador.exe*2109118568#
-\AgregarLibro.cdd*4067394378#
-\AgregarLibro.exe*3362925132#
+\AgregarLibro.cdd*2203549546#
+\AgregarLibro.exe*1197597938#
 \AgregarSocio.cdd*2349326252#
 \AgregarSocio.exe*1496246143#
 \Biblio-Admin.cdd*1097979736#
@@ -740,8 +740,8 @@
 \Fichero.exe*1213602213#
 \Inicio.cdd*1319482660#
 \Inicio.exe*482419644#
-\Libros.cdd*1833005982#
-\Libros.exe*1567128726#
+\Libros.cdd*3365899094#
+\Libros.exe*1625661536#
 \lua5.1.dll*3787524300#
 \lua51.dll*777752936#
 \Menu.cdd*1040376010#
