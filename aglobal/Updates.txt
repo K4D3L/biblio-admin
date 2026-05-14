@@ -680,6 +680,12 @@
 \Datos\Plugins\IMAGEEX\$TEMP.INF*125011091#
 \Datos\Plugins\IMAGEEX\IMAGEEX.APO*1020740801#
 \Datos\Plugins\IMAGEEX\IMGFLIP.DLL*1628618068#
+\Datos\Plugins\NCONVERT\plugins\libsharpyuv.dll*147056613#
+\Datos\Plugins\NCONVERT\plugins\libwebp.dll*1642575005#
+\Datos\Plugins\NCONVERT\plugins\libwebpdecoder.dll*1251758950#
+\Datos\Plugins\NCONVERT\plugins\libwebpdemux.dll*4032613028#
+\Datos\Plugins\NCONVERT\plugins\libwebpmux.dll*2988073775#
+\Datos\Plugins\NCONVERT\nconvert.exe*861324379#
 \Datos\Plugins\QR\$TEMP.INF*125011091#
 \Datos\Plugins\QR\zint.exe*3807394188#
 \Datos\Plugins\SHAPE\$TEMP.INF*125011091#
@@ -718,8 +724,8 @@
 \ImgTicket\$TEMP.INF*125011091#
 \Actualizador.cdd*1808279747#
 \Actualizador.exe*2109118568#
-\AgregarLibro.cdd*4108968090#
-\AgregarLibro.exe*2286117492#
+\AgregarLibro.cdd*4067394378#
+\AgregarLibro.exe*3362925132#
 \AgregarSocio.cdd*2349326252#
 \AgregarSocio.exe*1496246143#
 \Biblio-Admin.cdd*1097979736#
@@ -734,8 +740,8 @@
 \Fichero.exe*1213602213#
 \Inicio.cdd*1319482660#
 \Inicio.exe*482419644#
-\Libros.cdd*4100510976#
-\Libros.exe*2334121650#
+\Libros.cdd*1833005982#
+\Libros.exe*1567128726#
 \lua5.1.dll*3787524300#
 \lua51.dll*777752936#
 \Menu.cdd*1040376010#
