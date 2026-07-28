@@ -709,12 +709,6 @@
 \Datos\Scripts\socket\core.dll*552301708#
 \Datos\Scripts\$TEMP.INF*125011091#
 \Datos\Scripts\libmysql.dll*1346627614#
-\Datos\SQLs\$TEMP.INF*125011091#
-\Datos\SQLs\UpDateDB-00001.sql*3352116731#
-\Datos\SQLs\UpDateDB-00002.sql*3659254519#
-\Datos\SQLs\UpDateDB-00003.sql*2886565062#
-\Datos\SQLs\UpDateDB-00004.sql*3631236902#
-\Datos\SQLs\UpDateDB-00005.sql*2761406235#
 \Datos\Temp\Autor\$TEMP.INF*125011091#
 \Datos\Temp\Cumple\$TEMP.INF*125011091#
 \Datos\Temp\Doc\$TEMP.INF*125011091#
