@@ -656,6 +656,7 @@
 \Datos\Plugins\BAEDGE\Datos\Plugins\EDGE\EDGE.APO*2256648742#
 \Datos\Plugins\BAEDGE\Datos\BAEDGE.INF*773821359#
 \Datos\Plugins\BAEDGE\Datos\Home.html*2154987597#
+\Datos\Plugins\BAEDGE\BAEDGE.cdd*4179803552#
 \Datos\Plugins\BAEDGE\BAEDGE.exe*2557277191#
 \Datos\Plugins\BAEDGE\lua5.3.dll*1983460872#
 \Datos\Plugins\BAEDGE\WebView2Loader.dll*1042273525#
@@ -784,8 +785,8 @@
 \Fichero.exe*2005035632#
 \Inicio.cdd*2024811903#
 \Inicio.exe*2951426194#
-\Libros.cdd*394588300#
-\Libros.exe*2023371205#
+\Libros.cdd*1594589433#
+\Libros.exe*560091035#
 \lua5.1.dll*3787524300#
 \lua51.dll*777752936#
 \Menu.cdd*1040376010#
