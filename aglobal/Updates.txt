@@ -791,8 +791,8 @@
 \Libros.exe*3905341156#
 \lua5.1.dll*3787524300#
 \lua51.dll*777752936#
-\Menu.cdd*1040376010#
-\Menu.exe*2240187676#
+\Menu.cdd*728389313#
+\Menu.exe*2445437808#
 \Pagos.cdd*958511062#
 \Pagos.exe*2416070732#
 \Prestamo.cdd*1726259232#
