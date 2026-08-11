@@ -787,8 +787,8 @@
 \Fichero.exe*2005035632#
 \Inicio.cdd*2024811903#
 \Inicio.exe*2951426194#
-\Libros.cdd*3409637516#
-\Libros.exe*3905341156#
+\Libros.cdd*528370074#
+\Libros.exe*1490950717#
 \lua5.1.dll*3787524300#
 \lua51.dll*777752936#
 \Menu.cdd*728389313#
@@ -799,7 +799,7 @@
 \Prestamo.exe*1632084017#
 \Reservas.cdd*2492114521#
 \Reservas.exe*1578647197#
-\Socios.cdd*4284280853#
-\Socios.exe*3584998614#
+\Socios.cdd*2511334953#
+\Socios.exe*1740568972#
 \TemasBuscador.cdd*1338905462#
 \TemasBuscador.exe*4153818267#
