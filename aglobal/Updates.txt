@@ -1,7 +1,6 @@
 \BackUps\$TEMP.INF*125011091#
 \Datos\Cfgs\$TEMP.INF*125011091#
 \Datos\Cfgs\BA.INF*2743192064#
-\Datos\Cfgs\FICHERO.INF*3282929563#
 \Datos\Media\Audio\$TEMP.INF*125011091#
 \Datos\Media\Audio\Click.ogg*3206587487#
 \Datos\Media\Audio\Click1.ogg*3720520106#
@@ -669,7 +668,7 @@
 \Datos\Plugins\BAISBN\_ComandoOL.bat*3796074788#
 \Datos\Plugins\BAWEB\$TEMP.INF*125011091#
 \Datos\Plugins\BAWEB\BAWEB.exe*3981570028#
-\Datos\Plugins\BAWEB\BAWEB.INF*3056696860#
+\Datos\Plugins\BAWEB\BAWEB.INF*65381710#
 \Datos\Plugins\BAWEB\_comando.bat*3358885906#
 \Datos\Plugins\CALENDAR\$TEMP.INF*125011091#
 \Datos\Plugins\CALENDAR\CALENDAR.APO*3416772782#
@@ -719,12 +718,6 @@
 \Datos\Scripts\$TEMP.INF*125011091#
 \Datos\Scripts\libmysql.dll*1346627614#
 \Datos\SQLs\$TEMP.INF*125011091#
-\Datos\SQLs\UpDateDB-00001.sql*3352116731#
-\Datos\SQLs\UpDateDB-00002.sql*3659254519#
-\Datos\SQLs\UpDateDB-00003.sql*2886565062#
-\Datos\SQLs\UpDateDB-00004.sql*3654676112#
-\Datos\SQLs\UpDateDB-00005.sql*3680382088#
-\Datos\SQLs\UpDateDB-00006.sql*2258943150#
 \Datos\Temp\Autor\$TEMP.INF*125011091#
 \Datos\Temp\Cumple\$TEMP.INF*125011091#
 \Datos\Temp\Doc\$TEMP.INF*125011091#
@@ -787,8 +780,8 @@
 \Fichero.exe*2005035632#
 \Inicio.cdd*2024811903#
 \Inicio.exe*2951426194#
-\Libros.cdd*528370074#
-\Libros.exe*1490950717#
+\Libros.cdd*500479361#
+\Libros.exe*2228424022#
 \lua5.1.dll*3787524300#
 \lua51.dll*777752936#
 \Menu.cdd*728389313#
@@ -799,7 +792,7 @@
 \Prestamo.exe*1632084017#
 \Reservas.cdd*2492114521#
 \Reservas.exe*1578647197#
-\Socios.cdd*2511334953#
-\Socios.exe*1740568972#
+\Socios.cdd*57400387#
+\Socios.exe*3209496929#
 \TemasBuscador.cdd*1338905462#
 \TemasBuscador.exe*4153818267#
