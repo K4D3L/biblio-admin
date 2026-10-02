@@ -653,7 +653,7 @@
 \Datos\Plugins\BADIRS\BADIRS.INF*1984504332#
 \Datos\Plugins\BADIRS\DOWN.EXE*1911349949#
 \Datos\Plugins\BAEDGE\Datos\Plugins\EDGE\EDGE.APO*2256648742#
-\Datos\Plugins\BAEDGE\Datos\BAEDGE.INF*3377147478#
+\Datos\Plugins\BAEDGE\Datos\BAEDGE.INF*2388187309#
 \Datos\Plugins\BAEDGE\Datos\Home.html*2154987597#
 \Datos\Plugins\BAEDGE\BAEDGE.cdd*4226359000#
 \Datos\Plugins\BAEDGE\BAEDGE.exe*3646656551#
@@ -766,8 +766,8 @@
 \_CommonRedist\VC_Redist_x86.exe*3639712483#
 \Actualizador.cdd*1009398252#
 \Actualizador.exe*3333479744#
-\AgregarLibro.cdd*2549852947#
-\AgregarLibro.exe*4073222168#
+\AgregarLibro.cdd*2050519779#
+\AgregarLibro.exe*2765418972#
 \AgregarSocio.cdd*2656168917#
 \AgregarSocio.exe*3847729412#
 \Biblio-Admin.cdd*686777141#
